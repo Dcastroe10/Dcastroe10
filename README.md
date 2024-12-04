@@ -1,5 +1,5 @@
 <h2 align="left">About Me:</h2>
-
+<!-- https://profile-readme-generator.com/ -->
 ###
 
 <h4 align="left">Hey 👋, I’m a Computer Engineer with a strong passion for both Hardware and Software work. I love exploring the full range of computing, from low-level systems programming and hardware architectures to building cutting-edge applications with modern technologies.<br><br>I'm all about learning new things and constantly pushing myself to grow. I adapt easily to new challenges and enjoy diving into diverse fields, whether it’s optimizing or making code or experimenting with the latest tech. I’m self-driven and always eager to innovate and improve, making sure I stay at the forefront of what’s next in the tech world.</h4>
