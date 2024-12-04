@@ -78,7 +78,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Dcastroe10/Dcastroe10/output/snake.svg" alt="Snake animation" />
-
-###
